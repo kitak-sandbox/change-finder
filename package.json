@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mathjs": "^3.13.3",
+    "numjs": "^0.13.1"
+  }
+}
